@@ -1,0 +1,28 @@
+# Maven build
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# IDE khác (n?u m? b?ng IDE khác)
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
